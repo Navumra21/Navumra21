@@ -1,4 +1,4 @@
-Hi, I am Nav, a Precision Machining enthusiast. I also have a keen interst in all things tech and graphic design.
+Hi, I am Nav, a Precision Machining enthusiast. I also have a keen interst in all things tech, finance and graphic design.
 
 <!---
 Navumra21/Navumra21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
